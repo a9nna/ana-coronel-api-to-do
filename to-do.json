@@ -1,0 +1,7 @@
+{
+  "to-do": [
+    { "id": 1, "isDone": false, "name": "Do laundry" },
+    { "id": 2, "isDone": false, "name": "Do homework" },
+    { "id": 3, "isDone": false, "name": "Code a little" }
+  ]
+}
